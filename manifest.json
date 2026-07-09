@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.1.0/firmware-0.1.0.bin",
-  "sha256": "9f53f2a7f8954829798afa4aed4669c235d199b02fec9f37b2d25575d25de0a2",
-  "notes": "Initial release, hello world"
+  "version": "0.5.0",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.5.0/firmware-0.5.0.bin",
+  "sha256": "fb50329233f2639abbd5e2507d379153d77294350d24522b278e7c8a5d2b0713",
+  "notes": "Added Discord user tagging when inverter connection error"
 }

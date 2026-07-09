@@ -6,6 +6,7 @@ A release is then:
 2. `pio run`
 3. COPY released .bin to this repo under releases 
 4. `gh release create v1.2.3 release/firmware-1.2.3.bin`
+5. get SHA?
 5. update `manifest.json`
 6. commit + push.
 
