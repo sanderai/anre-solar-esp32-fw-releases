@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.0/firmware-0.6.0.bin",
-  "sha256": "4f8285c442d01f720686194a4b0afb78afbcf668d692c201d12ffbeacd79a504",
-  "notes": "Inverter connection diagnostics (remote log, periodic check, retries), automatic rollback of broken updates, optional 10-minute development update interval"
+  "version": "0.6.1",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.1/firmware-0.6.1.bin",
+  "sha256": "016d32e92512cb5e598ef6192eb9928d23e395559dbe29056cd16dcdd9e85992",
+  "notes": "Diagnostic log records when the inverter dongle drops off and comes back on the network"
 }
