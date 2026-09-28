@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.2/firmware-0.6.2.bin",
-  "sha256": "10d18c985182f6c80a7cc7c0f50bbf735b17682d665b9a400aee174720bd2f3f",
-  "notes": "Reaches the inverter dongle by its hardware (MAC) address, learned and saved automatically, so it answers even while idle"
+  "version": "0.6.3",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.3/firmware-0.6.3.bin",
+  "sha256": "caed5fa7fb4b2c6a00c8887842305df0459d2fb46e2a970e24faddacfa27a390",
+  "notes": "Periodic dongle connection check turned off (test build)"
 }
