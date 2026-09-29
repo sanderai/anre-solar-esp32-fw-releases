@@ -1,6 +1,6 @@
 {
-  "version": "0.6.3",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.3/firmware-0.6.3.bin",
-  "sha256": "caed5fa7fb4b2c6a00c8887842305df0459d2fb46e2a970e24faddacfa27a390",
-  "notes": "Periodic dongle connection check turned off (test build)"
+  "version": "0.6.4",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.4/firmware-0.6.4.bin",
+  "sha256": "3370c3641706f0941ce036968e98d70bf397910e1ad08b0c2767b7f240087927",
+  "notes": "No re-send to the inverter after the daily price fetch, quieter diagnostic log, Test switch button in control settings"
 }
