@@ -1,6 +1,6 @@
 {
-  "version": "0.6.7",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.7/firmware-0.6.7.bin",
-  "sha256": "a1fc28ca4fa5b374683cf86bffd2cb5a3ca9a142c8a2279238645bb7000de576",
-  "notes": "Active-window start/end lines on the price chart; the Võimsus piiratud message shows the limited power"
+  "version": "0.6.8",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.8/firmware-0.6.8.bin",
+  "sha256": "ef8b4d5b80d3f3c8d4ecfb50f9babaa363bcd9da2a6148be4affc5a9b052fa4c",
+  "notes": "Price threshold (Hinnapiir) shown in the schedule summary text and as a red label on the chart"
 }
