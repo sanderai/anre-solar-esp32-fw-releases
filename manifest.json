@@ -1,6 +1,6 @@
 {
-  "version": "0.6.6",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.6/firmware-0.6.6.bin",
-  "sha256": "228a0eb778460c7f31d8c97c21dbbde8a649d62541cc0550a61c399a11bd0759",
-  "notes": "Price chart image in the Discord schedule summary: 15-minute prices with limited periods shaded red and the threshold line"
+  "version": "0.6.7",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.7/firmware-0.6.7.bin",
+  "sha256": "a1fc28ca4fa5b374683cf86bffd2cb5a3ca9a142c8a2279238645bb7000de576",
+  "notes": "Active-window start/end lines on the price chart; the Võimsus piiratud message shows the limited power"
 }
