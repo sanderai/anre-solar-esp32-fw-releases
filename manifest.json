@@ -1,6 +1,6 @@
 {
-  "version": "0.6.8",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.8/firmware-0.6.8.bin",
-  "sha256": "ef8b4d5b80d3f3c8d4ecfb50f9babaa363bcd9da2a6148be4affc5a9b052fa4c",
-  "notes": "Price threshold (Hinnapiir) shown in the schedule summary text and as a red label on the chart"
+  "version": "0.6.9",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.6.9/firmware-0.6.9.bin",
+  "sha256": "8c8c13d69cd6852a0bc86f82fc8b380736c9d825dde28acdaf3ee76bf2e8d968",
+  "notes": "Startup message with firmware version and reset reason before the price summary; period lengths in the summary table"
 }
