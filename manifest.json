@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.7.0/firmware-0.7.0.bin",
-  "sha256": "c24b0d8373c1b29de01839f4efed2a2bb5d36426ea23f3ae27697c7e2bc38a16",
-  "notes": "Control window follows sunrise/sunset at the park's coordinates (enter them in Control settings); sun times in the summary and on the chart; switching messages moved to the log webhook; firmware updates now published to Discord"
+  "version": "0.7.1",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.7.1/firmware-0.7.1.bin",
+  "sha256": "b961f9bc86aab60909779d7f5d1f646d45e681c5db76a5171310d537bb383c50",
+  "notes": "Daily price plan goes to the log channel; the main channel gets it only on days with limits"
 }
