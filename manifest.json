@@ -1,6 +1,6 @@
 {
-  "version": "0.7.1",
-  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.7.1/firmware-0.7.1.bin",
-  "sha256": "b961f9bc86aab60909779d7f5d1f646d45e681c5db76a5171310d537bb383c50",
-  "notes": "Daily price plan goes to the log channel; the main channel gets it only on days with limits"
+  "version": "0.7.2",
+  "url": "https://github.com/sanderai/anre-solar-esp32-fw-releases/releases/download/v0.7.2/firmware-0.7.2.bin",
+  "sha256": "5524d655a98ded4c4d02a572947e3db84339429ae528862d5ae008934d96b06d",
+  "notes": "Daily 10:00 connection check posts to the log channel only on failure"
 }
